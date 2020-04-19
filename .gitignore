@@ -1,0 +1,15 @@
+###################################
+# Unreal Engine Generated Files   #
+###################################
+
+*/Intermediate
+*/Binaries
+*/Saved
+*/Build
+*/DerivedDataCatch
+Content/StarterContent/
+
+###################################
+# Visula Studio Generated Files   #
+###################################
+*.VC.db
